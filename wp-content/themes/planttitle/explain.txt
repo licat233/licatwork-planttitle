@@ -1,0 +1,47 @@
+assets: 资源
+
+article.php: 文章内容页
+
+car.php: 购物车
+
+carData.php: 商品数据请求
+
+case.php: 案例专题模板
+
+category.php: 案例专题和美容资讯的模板
+
+clearContent.php: 结算内容页
+
+clearing.php: 结算模板
+
+content.php: index内容
+
+footer.php: 页面脚部
+
+functions.php: 方法调用
+
+header.php: 页面头部
+
+index.php: 主页
+
+indexMessage: 主页资讯模板
+
+message.php: 美容资讯模板
+
+navmenu.php: banner图 + nav
+
+page.php: 服务中心模板 + 走进植题模板 + 量肤定制模板
+
+product.php: 商品详情页内容
+
+screenshot.png: 主题封面图
+
+shop-content.php: 明星单品内容页
+
+shop.php: 明星单品模板
+
+single.php: 商品详情页模板
+
+style.css: 主样式表
+
+test.php: 循环文章列表
